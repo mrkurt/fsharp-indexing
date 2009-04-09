@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{94D665CA-D915-4DE1-AA53-913450A1AE2D}") = "Mubble.Indexing", "Mubble.Indexing\Mubble.Indexing.fsharpp", "{FA0F787D-B08C-4B4A-BF78-F10B17076841}"
+EndProject
+Project("{94D665CA-D915-4DE1-AA53-913450A1AE2D}") = "Tests", "Tests\Tests.fsharpp", "{8C4EB6C0-0776-44FB-BFBE-B6E0B2C406C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0F787D-B08C-4B4A-BF78-F10B17076841}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA0F787D-B08C-4B4A-BF78-F10B17076841}.Debug|Win32.Build.0 = Debug|Win32
+		{FA0F787D-B08C-4B4A-BF78-F10B17076841}.Release|Win32.ActiveCfg = Release|Win32
+		{FA0F787D-B08C-4B4A-BF78-F10B17076841}.Release|Win32.Build.0 = Release|Win32
+		{8C4EB6C0-0776-44FB-BFBE-B6E0B2C406C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C4EB6C0-0776-44FB-BFBE-B6E0B2C406C5}.Debug|Win32.Build.0 = Debug|Win32
+		{8C4EB6C0-0776-44FB-BFBE-B6E0B2C406C5}.Release|Win32.ActiveCfg = Release|Win32
+		{8C4EB6C0-0776-44FB-BFBE-B6E0B2C406C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal
